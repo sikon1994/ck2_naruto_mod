@@ -1,0 +1,109 @@
+Jutsu training ADDITIONS
+1) You can have only 1 legendary level jutsu type all others can reach expert as max
+2) The second jutsu of a type(like fire_annihilation for ninjutsu fire) can be learned only by legendary level
+3) the 2 most powerfull genjutsus and taijutsus can only be learned by legendary level
+4) ADD byakugan jutsus should ammount to 10-20 combat rating some extra damage defence and about 15 martial
+
+six paths senjutsu
+1) remove all tailed beast traits
+2) remove simple senjutsu
+3) add all normal natures and ninjutsus despite the level of ninjutsu skills
+4) add has_chakra just in case
+5) to awake it you need senju_chakra + all tailed beasts under either merge, simple jinchuriki or control
+6) if you are kind and humble you can awake it instantly but if not you have to go through jubi_senjutsu first
+
+jubi_senjutsu to six paths senjutsu
+1) you have to wait for a random event in which you can either awake six paths senjutsu or remaine like this
+2) to go to six paths you increase chances by learning and if you have simple senjutsu
+
+rinnegan
+1) to awake it you need mangekyou or eternal mankekyou + senju chakra
+2) there will be a chance every 2 years for you to awake it
+3) if you have six paths senjutsu you can instantly awake it
+
+tenseigan
+1) to awake it you need byakugan + senju chakra, after that you need to steal a byakugan from dungeons
+2) one chance every 2 years to awake it
+3) having six paths senjutsu can instantly awake it
+
+mangekyou sharingan
+1) you can awake it once every 3 years starting from age of 12
+2) if depressed or stressed it can be awaken instantly
+3) you must have sharingan to awake it
+4) if you have implanted sharingan your chances to awake it are lower
+5) there are four types, randomly 1 of them will be chosen for you
+6) based on the type you can train to acquire its special power like amaterasu...
+7) susanoo can be obtained after you acquired the special power of the eye
+
+eternal mangekyou
+1) you must have mangekyou and take the sharingan of another person
+
+sharingan
+1) you can awake it every 2 years starting from age of 8
+2) you must have uchiha chakra to do it
+
+byakugan
+1) same as sharingan awakening
+2) they can train the special jutsu of byakugan
+3) one who has hyuga chakra can awake byakugan
+4) one who has hyuga chakra can train gentle fist if he has taijutsu_beginner
+5) special byakugan jutsus go up to taijutsu_expert level, each taijutsu level gives a new byakugan jutsu to train
+
+implanted eyes
+1) take it from someone who has it in the dungeon
+2) remove blinded and one_eyed
+3) add the implanted version of the eye
+
+sealing jutsu
+1) you must be expert in ninjutsu to acquire it
+2) it requires at least 20 learning
+3) allows for the tailed beast hunting
+
+tailed beasts
+1) you can be the jinchuriki or the merge of only 1 beast
+2) you can acquire the control version of the rest of the beasts
+3) you can acquire them by sealing jutsu
+4) you can give them to your court if you have the control version of a tailed beast
+5) you can steal a tailed beast from dungeon ppl with sealing
+6) if you steal the tailed beast the person who had it will get the extracted_tailed_beast trait
+7) if you only have control beasts you can become the jinchuriki of one
+
+tailed beast merge
+1) you can attempt a merge every 3 years if you have the simple form, not the control
+2) one who is humble and kind will get a very high chance of success
+3) one who is depressed, stressed, proud, wrath, has a very low chance of success
+4) if you fail you can get the wounded or severely_injured trait
+
+training jutsus
+1) all can train taijutsu
+2) only those with has_chakra can train ninjutsu and genjutsu
+3) you can aquire 1 legendary only, once in legendary level of one type you can't train the other 2 to more than expert
+4) 1/2 ninjutsu element techniques require legendary level
+5) 2/4 genjutsu and taijutsu techniques require legendary level
+6) shuriken technique can be learned by all
+7) transformation and kage bushin can be learned by ninjutsu beginner and ninjutsu veteran + acordingly
+8) make sure lower level jutsu can also be learned from higher level skills
+9) dont forget about sealing jutsu at ninjutsu_expert level
+
+has chakra
+1) if you don't have chakra you have a chance to aquire it but only one
+
+special chakras
+1) senju, uchiha and hyuga should always have has_chakra
+
+elements
+1) if you have chakra you can try for a chakra nature
+2) if you have ninjutsu_expert you can try for your second nature
+3) if you possess a nature kekkei genkai you can't aquire a second chakra nature
+4) in the test for the first nature you have a slight chance of getting kekkei genkai element
+
+kekkei genkai elements
+1) if you have a kekkei genkai + ninjutsu_expert you can train your special ninjutsu
+2) kekkei genkai element consists of 2 normal elements so chars can also train ninjutsu on those 2 natures
+
+taijutsu users and 8gates
+1) this category doesn't have any jutsus normaly but hides great power on conditions
+2) 8 gates can be trained if user is taijutsu_legendary + diligent + patient
+3) if 8 gates is activated then lotus can be trained
+4) if lotus is activated then hirudora can be trained
+5) taijutsu can be used as a support for normal chars but if you have the conditions met and taijutsu_legendary it becomes greater than kekkei genkais
